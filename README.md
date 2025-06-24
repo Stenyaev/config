@@ -1,5 +1,5 @@
 # config
-Config for Buildroot
+#Config for Buildroot
 #
 # Automatically generated file; DO NOT EDIT.
 # Buildroot 2025.02 Configuration
